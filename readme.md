@@ -11,22 +11,22 @@ URL : https://user27-webapp-999-ffg3ahcnbrbzd7gx.swedencentral-01.azurewebsites.
 
 ## 🚀 주요 기능
 
-✅ 장애 발생 원인 분석 및 설명
-✅ 장애의 영향도 및 영향 범위 안내
-✅ 재발 방지 및 해결 조치방안 제시
-✅ 대화 히스토리를 반영한 질문 재구성 지원
+✅ 장애 발생 원인 분석 및 설명  
+✅ 장애의 영향도 및 영향 범위 안내  
+✅ 재발 방지 및 해결 조치방안 제시  
+✅ 대화 히스토리를 반영한 질문 재구성 지원  
 
 ---
 
 ## 🛠 사용 기술 스택
 
- **● Azure OpenAI**
- **● Azure Cognitive Search**
- **● Azure Storage Account** 
- **● Azure AI Services**
- **● Azure Web App** 
- **● LangChain** 
- **● Streamlit** 
+ **● Azure OpenAI**  
+ **● Azure Cognitive Search**  
+ **● Azure Storage Account**   
+ **● Azure AI Services**  
+ **● Azure Web App**     
+ **● LangChain**   
+ **● Streamlit**   
 
 ## 🔗 서비스 플로우
  1. 사용자
