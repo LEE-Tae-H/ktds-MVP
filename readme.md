@@ -38,10 +38,10 @@ URL : https://user27-webapp-999-ffg3ahcnbrbzd7gx.swedencentral-01.azurewebsites.
 
 ## 🎯 기대 효과
 
-- 🚀 장애 대응 속도 향상
-- 💡 현업 부서의 신속한 의사결정 지원
-- 📊 지식 관리 및 문서화 자동화
-- ✅ 재발 방지 및 품질 개선 기여
+- 장애 대응 속도 향상
+- 현업 부서의 신속한 의사결정 지원
+- 지식 관리 및 문서화 자동화
+- 재발 방지 및 품질 개선 기여
 
 ## 🎨 UI
 ![image](https://github.com/user-attachments/assets/fc2602ef-db83-4c8b-9b58-bcee8efe4120)
