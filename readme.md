@@ -20,13 +20,13 @@ URL : https://user27-webapp-999-ffg3ahcnbrbzd7gx.swedencentral-01.azurewebsites.
 
 ## 🛠 사용 기술 스택
 
- **- Azure OpenAI**  
- **- Azure Cognitive Search**  
- **- Azure Storage Account**   
- **- Azure AI Services**  
- **- Azure Web App**     
- **- LangChain**   
- **- Streamlit**   
+ ** ● Azure OpenAI**  
+ ** ● Azure Cognitive Search**  
+ ** ● Azure Storage Account**   
+ ** ● Azure AI Services**  
+ ** ● Azure Web App**     
+ ** ● LangChain**   
+ ** ● Streamlit**   
 
 ## 🔗 서비스 플로우
  1. 사용자
